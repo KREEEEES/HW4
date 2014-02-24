@@ -1,0 +1,10 @@
+﻿body {background: blue;
+}
+#container {
+    background: red;
+    border:solid 2px black;
+    margin: auto, 0;
+}
+h1 {color: red;
+    text-align: center;
+}
